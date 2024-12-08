@@ -54,7 +54,7 @@ Follow these steps to set up and run the project locally:
 1. **Clone the Repository**  
    Clone the repository and navigate to the project directory:  
    ```bash
-   git clone https://github.com/your-username/your-project.git
+   git clone https://github.com/kaurjasleen240305/DEC-DEX.git
    cd ETHINDIA-2024
   
   ```bash

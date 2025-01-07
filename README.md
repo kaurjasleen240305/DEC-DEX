@@ -4,6 +4,12 @@
 
 ---
 
+## Achievements
+
+**Winner** 🏆 in the **Okto Sponsor Track at ETH India 2024**  
+- Awarded **$200** for excellence in leveraging the Okto-SDK and Web2-to-Web3 APIs.  
+- Recognized for creating a user-centric DeFi dashboard that simplifies portfolio management and provides innovative insights.
+
 ## Features  
 
 ### 1. OKTO Authentication and Wallet Creation  
@@ -19,12 +25,6 @@
 - Extends API data beyond typical displays like STETH to ETH exchanges by platforms like LIDO, providing richer portfolio details.  
 
 ---
-
-## Achievements
-
-**Winner** 🏆 in the **Okto Sponsor Track at ETH India 2024**  
-- Awarded **$200** for excellence in leveraging the Okto-SDK and Web2-to-Web3 APIs.  
-- Recognized for creating a user-centric DeFi dashboard that simplifies portfolio management and provides innovative insights.
 
 ## Future Ideas  
 
